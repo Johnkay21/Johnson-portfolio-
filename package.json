@@ -2,7 +2,7 @@
   "name": "johnson",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Johnkay21.github.io/Johnson-Portfolio-",
+  "homepage": "https://Johnkay21.github.io/Johnson-portfolio-",
   "type": "module",
   "scripts": {
     "dev": "vite",
